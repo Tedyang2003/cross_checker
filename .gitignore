@@ -3,3 +3,10 @@ onboarding
 train.src.cleaned
 OpenAI_API_Key.txt
 vector_index_cosine
+.venv
+chroma_store
+datasets
+bart-nli-finetuned
+bert-nli-finetuned
+lib
+TogetherAI_API_Key.txt
