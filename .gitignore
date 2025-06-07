@@ -10,3 +10,4 @@ bart-nli-finetuned
 bert-nli-finetuned
 lib
 TogetherAI_API_Key.txt
+.env
