@@ -36,3 +36,23 @@
     background-color: transparent;
 }
 
+.st-key-articles button {
+    border: none;
+    background-color: transparent;
+    color:#835DFF;
+    text-decoration: underline;
+    text-align: left;
+    padding: 0px;
+}
+
+.st-key-articles button:active {
+    background-color: transparent;
+}
+
+.st-key-filter_category {
+    padding: 1.6rem 0px;
+}
+
+.st-key-embedding_model {
+    padding-bottom: 10px;
+}

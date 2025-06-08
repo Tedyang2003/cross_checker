@@ -1,89 +1,72 @@
 Chunk,Chunk Text,Summary,Fact,Contradictions
-Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews",Fire at Dryden Textiles facility.,A fire broke out late Monday night at the Dryden Textiles facility.,"A fire broke out early Tuesday morning at the Dryden Textiles facility.
+Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews from three neighboring towns responded. They contained the blaze after five hours.",Fire at Dryden Textiles facility.,A fire broke out late Monday night at the Dryden Textiles facility.,"A fire broke out early Tuesday morning at the Dryden Textiles facility.
 A fire broke out late Monday night at the Dryden Electronics facility.
-A fire broke out late Monday night at the Dryden Textiles facility in the west end of the industrial district."
-Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews",Fire at Dryden Textiles facility.,Witnesses reported seeing smoke as early as 11:40 p.m.,"Witnesses reported seeing smoke as early as 10:30 p.m.
+A fire broke out late Sunday night at the Dryden Textiles facility."
+Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews from three neighboring towns responded. They contained the blaze after five hours.",Fire at Dryden Textiles facility.,Witnesses reported seeing smoke as early as 11:40 p.m.,"Witnesses reported seeing smoke as early as 10:30 p.m.
 Witnesses reported seeing smoke as early as 12:40 a.m.
-Witnesses reported not seeing any smoke until after midnight."
-Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews",Fire at Dryden Textiles facility.,Flames were visible from the adjacent highway by midnight.,"Flames were not visible from the adjacent highway until 1:00 a.m.
+Witnesses reported seeing smoke as early as 11:00 p.m."
+Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews from three neighboring towns responded. They contained the blaze after five hours.",Fire at Dryden Textiles facility.,Flames were visible from the adjacent highway by midnight.,"Flames were visible from the adjacent highway by 1:00 a.m.
 Flames were visible from the adjacent highway by 11:00 p.m.
-Flames were not visible from the adjacent highway at all."
-Chunk 2,"from three neighboring towns responded. They contained the blaze after five hours. No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet","Factory fire, no fatalities reported.",The blaze was contained after five hours.,"The blaze was contained after ten hours.
-The blaze was contained immediately.
-The blaze was never contained.
-The blaze was contained after one hour.
-The blaze was contained after two days."
-Chunk 2,"from three neighboring towns responded. They contained the blaze after five hours. No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet","Factory fire, no fatalities reported.",No fatalities were reported.,"Several fatalities were reported.
-One fatality was reported.
-Dozens of fatalities were reported.
-A fatality was reported.
-Hundreds of fatalities were reported."
-Chunk 2,"from three neighboring towns responded. They contained the blaze after five hours. No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet","Factory fire, no fatalities reported.",Two workers remain hospitalized with smoke inhalation.,"No workers remain hospitalized with smoke inhalation.
-Five workers remain hospitalized with smoke inhalation.
-Two workers remain hospitalized with burns.
-Two workers remain hospitalized with broken bones.
-Two workers were discharged from the hospital."
-Chunk 2,"from three neighboring towns responded. They contained the blaze after five hours. No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet","Factory fire, no fatalities reported.",Over 120 employees arrived Tuesday morning to find the building sealed off.,"Over 120 employees arrived Wednesday morning to find the building sealed off.
-Only 20 employees arrived Tuesday morning to find the building sealed off.
-Over 120 employees arrived Tuesday morning to find the building open.
-Over 120 employees arrived Monday morning to find the building sealed off.
-No employees arrived Tuesday morning to find the building sealed off."
-Chunk 3,"been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely. The company did not respond to requests for further comment. Dryden",Fire disrupts company operations.,Management issued a brief statement through local media.,"Management issued a lengthy statement through local media.
-Management did not issue any statement through local media.
-Management issued a brief statement through international media."
-Chunk 3,"been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely. The company did not respond to requests for further comment. Dryden",Fire disrupts company operations.,Operations would be suspended indefinitely.,"Operations would continue as usual.
-Operations would be suspended temporarily.
-Operations would be expanded indefinitely."
-Chunk 3,"been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely. The company did not respond to requests for further comment. Dryden",Fire disrupts company operations.,The company did not respond to requests for further comment.,"The company responded promptly to requests for further comment.
-The company issued multiple responses to requests for further comment.
-The company held a press conference to provide further comment."
-Chunk 4,"Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City",Textiles' safety violations history,Textiles is a manufacturer of synthetic fabric for commercial use.,"Textiles is a manufacturer of natural fabric for personal use.
-Textiles produces metal components for industrial use.
-Textiles is a retail company selling clothing.
-Textiles is a food processing company.
-Textiles manufactures wooden furniture."
-Chunk 4,"Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City",Textiles' safety violations history,Textiles has operated in the area since 1972.,"Textiles has operated in the area since 1985.
-Textiles started operations in the area in 1990.
-Textiles has been in the area since 2000.
-Textiles began operations in the area last year.
-Textiles has never operated in the area."
-Chunk 4,"Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City",Textiles' safety violations history,The facility has been cited twice in the past five years for safety violations.,"The facility has never been cited for safety violations.
-The facility has been cited ten times in the past year for safety violations.
-The facility was cited once in the past decade for safety violations.
-The facility has been cited three times in the past month for safety violations.
-The facility was cited five times last week for safety violations."
-Chunk 4,"Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City",Textiles' safety violations history,There is an unresolved citation related to faulty electrical systems.,"All citations related to electrical systems have been resolved.
-There are no citations related to electrical systems.
-The citation related to electrical systems was resolved immediately.
-There are multiple resolved citations related to plumbing systems.
-The unresolved citation is related to structural issues, not electrical systems."
-Chunk 5,"inspectors began preliminary assessments early Tuesday. Officials declined to speculate on the cause, but fire chief Daniel Mora stated that investigators found signs of an electrical short in the northwest corner of the facility. Temporary unemployment filings surged at the",Facility fire; electrical short suspected.,Inspectors began preliminary assessments early Tuesday.,"Inspectors began preliminary assessments late Tuesday.
-Inspectors began preliminary assessments early Wednesday.
-Inspectors began preliminary assessments early Monday."
-Chunk 5,"inspectors began preliminary assessments early Tuesday. Officials declined to speculate on the cause, but fire chief Daniel Mora stated that investigators found signs of an electrical short in the northwest corner of the facility. Temporary unemployment filings surged at the",Facility fire; electrical short suspected.,Officials declined to speculate on the cause.,"Officials speculated on the cause.
-Officials provided a detailed explanation of the cause.
-Officials confirmed the cause of the incident."
-Chunk 5,"inspectors began preliminary assessments early Tuesday. Officials declined to speculate on the cause, but fire chief Daniel Mora stated that investigators found signs of an electrical short in the northwest corner of the facility. Temporary unemployment filings surged at the",Facility fire; electrical short suspected.,Fire chief Daniel Mora stated that investigators found signs of an electrical short.,"Fire chief Daniel Mora stated that investigators found no signs of an electrical short.
-Fire chief Daniel Mora stated that investigators found signs of a gas leak.
-Fire chief Daniel Mora stated that investigators found signs of arson."
-Chunk 5,"inspectors began preliminary assessments early Tuesday. Officials declined to speculate on the cause, but fire chief Daniel Mora stated that investigators found signs of an electrical short in the northwest corner of the facility. Temporary unemployment filings surged at the",Facility fire; electrical short suspected.,Signs of an electrical short were found in the northwest corner of the facility.,"Signs of an electrical short were found in the southeast corner of the facility.
-Signs of an electrical short were found in the center of the facility.
-No signs of an electrical short were found in the northwest corner of the facility."
-Chunk 5,"inspectors began preliminary assessments early Tuesday. Officials declined to speculate on the cause, but fire chief Daniel Mora stated that investigators found signs of an electrical short in the northwest corner of the facility. Temporary unemployment filings surged at the",Facility fire; electrical short suspected.,Temporary unemployment filings surged.,"Temporary unemployment filings decreased.
-Temporary unemployment filings remained stable.
-There was no change in temporary unemployment filings."
-Chunk 6,"local labor office, with several workers citing the plant shutdown as the reason. â€˜Iâ€™ve worked there twenty-one years. They didnâ€™t even call us,â€™ said Luis Romero, a shift supervisor. â€˜We saw it on the news.â€™",Plant shutdown impacts local workers.,Luis Romero is a shift supervisor.,"Luis Romero is a janitor.
-Luis Romero is the CEO.
+Flames were not visible from the adjacent highway by midnight."
+Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews from three neighboring towns responded. They contained the blaze after five hours.",Fire at Dryden Textiles facility.,Fire crews from three neighboring towns responded.,"Fire crews from two neighboring towns responded.
+Fire crews from four neighboring towns responded.
+Fire crews from three neighboring cities responded."
+Chunk 1,"A fire broke out late Monday night at the Dryden Textiles facility on the east end of the industrial district. Witnesses reported seeing smoke as early as 11:40 p.m., with flames visible from the adjacent highway by midnight. Fire crews from three neighboring towns responded. They contained the blaze after five hours.",Fire at Dryden Textiles facility.,They contained the blaze after five hours.,"They contained the blaze after three hours.
+They contained the blaze after seven hours.
+They contained the blaze after two hours."
+Chunk 2,"No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely.",Fire disrupts workplace operations.,No fatalities were reported.,"Several fatalities were reported.
+There were multiple deaths reported.
+Fatalities were confirmed by authorities.
+At least one person died in the incident.
+The incident resulted in numerous deaths."
+Chunk 2,"No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely.",Fire disrupts workplace operations.,Two workers remain hospitalized with smoke inhalation.,"No workers were hospitalized.
+Three workers remain hospitalized with smoke inhalation.
+Two workers were hospitalized with broken bones.
+All workers were discharged from the hospital.
+Five workers remain hospitalized with smoke inhalation."
+Chunk 2,"No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely.",Fire disrupts workplace operations.,Over 120 employees arrived Tuesday morning to find the building sealed off.,"Only 50 employees arrived Tuesday morning.
+No employees arrived Tuesday morning.
+The building was open when employees arrived.
+Employees arrived to find the building fully operational.
+Less than 100 employees arrived Tuesday morning."
+Chunk 2,"No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely.",Fire disrupts workplace operations.,Management issued a brief statement through local media.,"Management issued a lengthy statement through local media.
+No statement was issued by management.
+Management issued a statement through social media.
+The statement was issued by the fire department, not management.
+Management refused to comment on the situation."
+Chunk 2,"No fatalities were reported, but two workers remain hospitalized with smoke inhalation. Over 120 employees arrived Tuesday morning to find the building sealed off. Many had not yet been informed about the fire and waited behind barricades until police cleared the area. Management issued a brief statement through local media, confirming that operations would be suspended indefinitely.",Fire disrupts workplace operations.,Operations would be suspended indefinitely.,"Operations would resume immediately.
+Operations were suspended for only one day.
+Operations continued as usual.
+Operations were suspended for a week.
+Operations were not affected by the incident."
+Chunk 3,"The company did not respond to requests for further comment. Dryden Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City inspectors began preliminary assessments early Tuesday.",Dryden Textiles safety violations.,The company did not respond to requests for further comment.,"The company provided a detailed response to requests for further comment.
+The company held a press conference to address all questions.
+The company issued a public statement in response to requests for further comment."
+Chunk 3,"The company did not respond to requests for further comment. Dryden Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City inspectors began preliminary assessments early Tuesday.",Dryden Textiles safety violations.,Dryden Textiles is a manufacturer of synthetic fabric for commercial use.,"Dryden Textiles is a manufacturer of natural fabric for residential use.
+Dryden Textiles specializes in producing metal components.
+Dryden Textiles is a service provider for the tech industry."
+Chunk 3,"The company did not respond to requests for further comment. Dryden Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City inspectors began preliminary assessments early Tuesday.",Dryden Textiles safety violations.,Dryden Textiles has operated in the area since 1972.,"Dryden Textiles has operated in the area since 1990.
+Dryden Textiles was established in the area in 2005.
+Dryden Textiles started its operations in the area last year."
+Chunk 3,"The company did not respond to requests for further comment. Dryden Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City inspectors began preliminary assessments early Tuesday.",Dryden Textiles safety violations.,The facility has been cited twice in the past five years for safety violations.,"The facility has never been cited for safety violations.
+The facility has been cited ten times in the past five years for safety violations.
+The facility received its first safety violation citation this year."
+Chunk 3,"The company did not respond to requests for further comment. Dryden Textiles, a manufacturer of synthetic fabric for commercial use, has operated in the area since 1972. The facility has been cited twice in the past five years for safety violations, including an unresolved citation related to faulty electrical systems. City inspectors began preliminary assessments early Tuesday.",Dryden Textiles safety violations.,City inspectors began preliminary assessments early Tuesday.,"City inspectors began preliminary assessments late Friday.
+City inspectors have not yet begun any assessments.
+City inspectors completed preliminary assessments last month."
+Chunk 4,"Officials declined to speculate on the cause, but fire chief Daniel Mora stated that investigators found signs of an electrical short in the northwest corner of the facility. Temporary unemployment filings surged at the local labor office, with several workers citing the plant shutdown as the reason. â€˜Iâ€™ve worked there twenty-one years.",Plant shutdown due to fire.,Parsing failed,Unterminated string starting at: line 48 column 13 (char 2791)
+Chunk 5,"They didnâ€™t even call us,â€™ said Luis Romero, a shift supervisor. â€˜We saw it on the news.â€™",Uninformed employees learn via news.,Luis Romero is a shift supervisor.,"Luis Romero is a janitor.
+Luis Romero is a manager.
 Luis Romero is an intern.
-Luis Romero is a security guard.
-Luis Romero is a part-time worker."
-Chunk 6,"local labor office, with several workers citing the plant shutdown as the reason. â€˜Iâ€™ve worked there twenty-one years. They didnâ€™t even call us,â€™ said Luis Romero, a shift supervisor. â€˜We saw it on the news.â€™",Plant shutdown impacts local workers.,Luis Romero has worked there for twenty-one years.,"Luis Romero has worked there for five years.
-Luis Romero has worked there for ten years.
-Luis Romero has worked there for thirty years.
-Luis Romero just started working there last year.
-Luis Romero has worked there for two months."
-Chunk 6,"local labor office, with several workers citing the plant shutdown as the reason. â€˜Iâ€™ve worked there twenty-one years. They didnâ€™t even call us,â€™ said Luis Romero, a shift supervisor. â€˜We saw it on the news.â€™",Plant shutdown impacts local workers.,The workers learned about the plant shutdown from the news.,"The workers were informed about the plant shutdown via email.
-The workers received a phone call about the plant shutdown.
-The workers were told about the plant shutdown in a meeting.
-The workers found out about the plant shutdown from a letter.
-The workers were informed about the plant shutdown through a text message."
+Luis Romero is a CEO.
+Luis Romero is a customer."
+Chunk 5,"They didnâ€™t even call us,â€™ said Luis Romero, a shift supervisor. â€˜We saw it on the news.â€™",Uninformed employees learn via news.,They didn't call Luis Romero and his team.,"They called Luis Romero and his team.
+Luis Romero and his team received a text message.
+Luis Romero and his team were emailed.
+Luis Romero and his team were notified in person.
+Luis Romero and his team were informed via letter."
+Chunk 5,"They didnâ€™t even call us,â€™ said Luis Romero, a shift supervisor. â€˜We saw it on the news.â€™",Uninformed employees learn via news.,Luis Romero and his team saw the news.,"Luis Romero and his team did not see the news.
+Luis Romero and his team heard it on the radio.
+Luis Romero and his team read it in a newspaper.
+Luis Romero and his team were told by a friend.
+Luis Romero and his team were unaware of the news."

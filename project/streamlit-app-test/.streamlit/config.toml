@@ -17,3 +17,10 @@ textColor = '#FFFFFF'
 # Default: "sans serif"
 font = "sans serif"
 showSidebarBorder=1
+
+
+[client]
+showSidebarNavigation = false
+
+[server]
+fileWatcherType = "poll"
