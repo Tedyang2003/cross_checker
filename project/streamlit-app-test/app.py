@@ -37,19 +37,13 @@ with open(ARTICLE_FILE, "r") as f:
 
 # ------------------- PAGE ROUTER -------------------
 if st.session_state["view"] == "home":
-    with st.sidebar:
-        st.empty()  # immediately wipes the sidebar on all non-home views
     home_page(all_articles)
 
 elif st.session_state["view"] == "loading_facts":
-    with st.sidebar:
-        st.empty()  # immediately wipes the sidebar on all non-home views
     loading_page()
     
 
 elif st.session_state["view"] == "facts":
-    with st.sidebar:
-        st.empty()  # immediately wipes the sidebar on all non-home views
     fact_page()
 
 # Main conten
