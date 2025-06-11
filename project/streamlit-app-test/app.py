@@ -14,6 +14,11 @@ from pages.fact import fact_page
 
 nltk.download('punkt_tab')
 st.set_page_config(layout="wide")
+with st.sidebar:
+    st.logo(
+        "assets/logo.png",
+        link="https://streamlit.io/gallery",
+    )
 
 # ------------------- SESSION STATE -------------------
 if "view" not in st.session_state:

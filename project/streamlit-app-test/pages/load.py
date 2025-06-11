@@ -32,7 +32,7 @@ def loading_page():
                 max_words = 60
                 chunks = split_into_chunks(article_content, max_words)
                 with st.sidebar:
-                    with st.container():
+                    with st.container(key='details'):
                         st.markdown("# :violet[RAG System Details]")
 
                         with st.container(key="embedding_model"):

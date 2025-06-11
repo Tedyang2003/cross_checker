@@ -56,3 +56,7 @@
 .st-key-embedding_model {
     padding-bottom: 10px;
 }
+
+img[data-testid="stLogo"] {
+    height: 5rem;
+}
